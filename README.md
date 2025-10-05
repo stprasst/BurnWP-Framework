@@ -3,11 +3,9 @@
 🌐 **Logo BurnWP-Framework 1.0.0**  
  ![Logo](https://raw.githubusercontent.com/drcrypterdotru/BurnWP-Framework/main/demo/logo.png)
  
-<h2>Join Community</h2>
-<a href="https://t.me/burnwpcommunity" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/drcrypterdotru/BurnWP-Framework/main/demo/logo.png"
-       alt="BurnWP Community" width="220">
-</a>
+## Join Community
+[![Join on Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/burnwpcommunity)
+
 
 
 ## 📌 Introduction
