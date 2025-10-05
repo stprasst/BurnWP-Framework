@@ -4,8 +4,11 @@
  ![Logo](https://raw.githubusercontent.com/drcrypterdotru/BurnWP-Framework/main/demo/logo.png)
  
 <h2>Join Community</h2>
-<a href="https://t.me/burnwpcommunity">
-  <img src="[[https://raw.githubusercontent.com/drcrypterdotru/BurnWP-Framework/main/demo/logo.png](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg))" alt="BurnWP Community" width="220">
+<a href="https://t.me/burnwpcommunity" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/drcrypterdotru/BurnWP-Framework/main/demo/logo.png"
+       alt="BurnWP Community" width="220">
+</a>
+
 
 ## 📌 Introduction
 
